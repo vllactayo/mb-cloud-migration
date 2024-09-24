@@ -1,6 +1,6 @@
 # MapBiomas Perú - Cloud Migration 🌎☁️
 
-This guidelines document outlines the process of migrating assets associated with the generation of land cover and land use maps for MapBiomas Peru, from local storage (Legacy Assets) to Google Cloud Storage. The development team carried out this migration using a standardized structure and optimized code to streamline the process. As a result, scripts, vector layers, raster data, and classification products were successfully migrated for the three main initiatives: MapBiomas LULC, MapBiomas AGUA, and MapBiomas Wetlands.
+This guidelines document outlines the process of migrating assets associated with the generation of land cover and land use maps for MapBiomas Peru, from local storage (Legacy Assets) to Google Cloud Storage. The development team carried out this migration using a standardized structure and optimized code to streamline the process. As a result, scripts, vector layers, raster data, and classification products were successfully migrated for the three main initiatives: MapBiomas Land Use Land Cover 🌳 , MapBiomas Water 💧, and MapBiomas Wetlands 🏞️.
 
 ## Google Cloud Structure ☁️
 
